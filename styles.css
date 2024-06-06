@@ -6,7 +6,6 @@ header {
     display: flex;
     align-items: center;
     padding: 10px;
-    background-color: #333;
     color: white;
 }
 
@@ -16,7 +15,6 @@ header img {
 }
 
 nav {
-    background-color: #333;
     overflow: hidden;
 }
 
